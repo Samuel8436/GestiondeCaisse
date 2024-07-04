@@ -1,0 +1,9 @@
+1-  Importer dans la phpmyadmin le fichier 'gestiondecaisse.sql', ou
+copier dans 'C:\wamp64\bin\mysql\mysql5.7.36\data' le dossier 'gestiondecaisse' pour assurer la base de données
+2-  Pour resoudre le probléme de serveur ajouter dans le serveyr le serveur 'apache-tomcat-10.0.27'
+	ETAPE D'AJOUT LE SERVEUR 'apache-tomcat-10.0.27'
+	-Tools, Server
+	-Add Server...
+	-Apache Tompcat tomEE, Next
+	-Browse... pour selectioner la Server Local, Creation d'utilisateur et Mot de passe, Finish
+FIN
